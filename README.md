@@ -6,10 +6,6 @@ With over **9 years of experience** in software development, my expertise shines
 
 Additionally, I have a profound interest in the **entire product journey**, from conception to delivery. Actively contributing ideas and strategies, I participate in the creative process, ensuring that the product vision aligns with user needs. My approach is guided by **curiosity, dedication**, and a **goal-oriented focus**, always ready to bring my passion and expertise to drive the success of challenging projects.
 
----
-
-🛠️ Tech Stack & Tools
-
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
