@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Gustavo Lima
-
 **Software Engineer | React, Next.js, TypeScript, Node.js & AI**
 
 Passionate about creating solutions that positively impact people's lives through technology.
